@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps shooter.Plugins", "fps shooter.Plugins.csproj", "{26E1B16A-D583-8811-C767-C4CD4AE26189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps shooter", "fps shooter.csproj", "{C63B4F55-169F-B17B-B98B-D0DDD226A4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fps shooter.Editor.Plugins", "fps shooter.Editor.Plugins.csproj", "{504B30DC-03B8-D7D8-897A-4207CFD3320D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E1B16A-D583-8811-C767-C4CD4AE26189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E1B16A-D583-8811-C767-C4CD4AE26189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E1B16A-D583-8811-C767-C4CD4AE26189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E1B16A-D583-8811-C767-C4CD4AE26189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63B4F55-169F-B17B-B98B-D0DDD226A4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63B4F55-169F-B17B-B98B-D0DDD226A4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63B4F55-169F-B17B-B98B-D0DDD226A4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63B4F55-169F-B17B-B98B-D0DDD226A4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504B30DC-03B8-D7D8-897A-4207CFD3320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504B30DC-03B8-D7D8-897A-4207CFD3320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504B30DC-03B8-D7D8-897A-4207CFD3320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504B30DC-03B8-D7D8-897A-4207CFD3320D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
